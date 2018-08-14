@@ -9,7 +9,7 @@ mongodb的使用教程，网上教程甚多，这里就不进行赘述了
 
 运行项目
 
-cd my-app
+cd react-express
 
 npm i
 
@@ -22,7 +22,7 @@ nodemon server.js
 
 另起一个窗口
 
-cd my-app
+cd react-express
 
 npm start
 
